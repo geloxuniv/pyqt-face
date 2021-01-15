@@ -1,3 +1,3 @@
 # pyqt-face
 face recognition pyqt
-joke
+joke lang
