@@ -1,3 +1,3 @@
 # pyqt-face
 face recognition pyqt
-adsfkdskf
+joke
